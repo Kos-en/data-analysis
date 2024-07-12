@@ -8,19 +8,14 @@ date,askingPrice,revenueMultiple,listingHeadline,listingType,totalRevenueAnnual,
 âœ… Competitors: Kissflow, Modyo, Servicenow, Pipefy, Kiban
 
 With the platform, financial institutions can develop and implement digital products quickly, reducing the time to market by a factor of 10. This efficiency leads to improved customer experiences, increased employee productivity, and the ability to scale operations, providing financial institutions with a competitive advantage in the fast-paced digital world.",1635872,10-100,"Mexico, LowCode, Low Code, Finance, Fintech",798854,15,"
-Ngix,
-React,
-Rubyrails,
-Neo4j,
-PostgreSQL,
-Python","Our business operates on a SaaS model, targeting B2B customers, specifically financial institutions. We offer five distinct pricing tiers to fill the different needs of our clients. To provide additional value, we waive implementation costs for customers who commit to a 24-month contract, ensuring a long-term partnership.","['https://kissflow.com/', 'https://www.modyo.com/', 'https://www.servicenow.com/', 'https://www.pipefy.com/', 'https://www.kiban.com/']",126
+Ngix,ReactJS,Rubyrails,Neo4j,PostgreSQL,Python","Our business operates on a SaaS model, targeting B2B customers, specifically financial institutions. We offer five distinct pricing tiers to fill the different needs of our clients. To provide additional value, we waive implementation costs for customers who commit to a 24-month contract, ensuring a long-term partnership.","['https://kissflow.com/', 'https://www.modyo.com/', 'https://www.servicenow.com/', 'https://www.pipefy.com/', 'https://www.kiban.com/']",126
 2023-03-29,1000000,0.7,"High-quality, ethical, and global proxy lists for scraping websites ",platinum,1440000,150000,25,Belgium,2020-01-01,"Profitable SaaS with $1,400,000 in TTM revenue and $150,000 in TTM profit that provides high-quality proxy lists to users around the world. We have built a strong reputation in the industry by consistently delivering reliable and efficient proxy services to our customers. With a user-friendly interface and advanced features, our platform is easy to use and meets the needs of a wide range of customers. Now, we are looking for a new owner to take the company to the next level.
 
 âœ… $1,400,000 in TTM revenue
 âœ… $150,000 in TTM profit
 âœ… $130,000 in revenue last month
 âœ… $21,000 in profit last month
-âœ… Competitors: Webshare, Proxyrack, Smartproxy",1500000,1000-10000,"web scraping, scraping, proxies, proxy",150000,25,"PHP, Ubuntu, HTML, CSS, JS","Please note that our accounting year ends in June every year. I will update this info within a day.
+âœ… Competitors: Webshare, Proxyrack, Smartproxy",1500000,1000-10000,"web scraping, scraping, proxies, proxy",150000,25,"PHP, Ubuntu, HTML, CSS, JavaScript","Please note that our accounting year ends in June every year. I will update this info within a day.
 
 Our business operates on a subscription-based business model, with customers paying a monthly fee for access to our proxy lists. We offer a range of pricing options to meet the needs of different customers, including residential, shared datacenter proxies, and dedicated. Our prices are competitive and allow us to maintain a healthy profit margin, even at relatively low price points.
 
@@ -29,18 +24,6 @@ In addition to our subscriptions, we also offer one-time purchases of custom pro
 Overall, our business model has been successful in driving consistent revenue, although profitablity is currently not as good, and we are having difficulties scaling further.
 
 Info on google analytics: The reason you see a segnificant drop in website users after May 2022 is because we split away part of our user base to another website, because they were not generating any revenue and just polluting our statisitics.","['Webshare', 'Proxyrack', 'Smartproxy']",5
-2023-03-29,1500000,5,"Cost-effective, no-code platform for SMBs to create, publish, & monetize apps",platinum,300000,100000,105,Turkey,2014-03-01,"Profitable SaaS with $300,000 in TTM revenue and $100,000 in TTM profit that enables anyone to create apps without coding and make money with them. All the apps are native and compatible with Android and iOS. Its mission is to provide a cost-effective app-making platform for small to medium size businesses. Also, content creators can make their content app and monetize it. Agencies or freelancers can build apps for SMBs and sell them.
-
-âœ… $300,000 in TTM revenue
-âœ… $100,000 in TTM profit
-âœ… $25,000 in revenue last month
-âœ… $10,000 in profit last month
-âœ… Competitors: Goodbarber, Shoutem, Biznessapps, Adalo, Buildfire",300000,100-1000,"SaaS, mobile app builder",100000,105,"Net Core,Angular
-Kotlin, Swift Database,MSSQL, PostgresSQL, MongoDB","As a SaaS company, our business model is based on providing a subscription-based service that offers our customers access to our software and platform. We offer three pricing plans Eco, Pro and Business, with each plan tailored to meet the specific needs of our customers.
-
-Our Eco plan is priced at $18 per month and is designed for individuals or small teams who require basic features and functionality. The Pro plan is priced at $54 per month and offers additional features and support for larger teams or businesses. Our Business plan, which is priced at $90 per month, provides advanced functionality and support for enterprises and organizations with complex needs.
-
-We determine our pricing based on a variety of factors, including the level of service and support we provide, the value that our software delivers to our customers, and the pricing strategies of our competitors. We regularly review and adjust our pricing to ensure that we are offering competitive and transparent pricing to our customers while maintaining our profitability as a company.","['Goodbarber', 'Shoutem', 'Biznessapps', 'Adalo', 'Buildfire']",4
 2023-03-09,1800000,1.5,Social Media Management and Growth Software.,platinum,1230000,375000,,United States,2022-08-01,"Profitable SaaS ChatGPT-powered social media management and growth with $1,230,000 in TTM revenue and $375,000 in TTM profit that helps you get more Instagram followers, likes, and comments (and a bunch of other stuff) 10x faster. Compared to other growth services, it attracts more real Instagram users interested in your account and converts them to followers, without ever putting your account at any risk of getting banned or flagged.
 
 âœ… $1,230,000 in TTM revenue
@@ -85,12 +68,7 @@ Pricing is either ""pay per machine"" or ""pay per user/hour""","['Workspot', 'A
 âœ… $21,000 in revenue last month
 âœ… $17,000 in profit last month
 âœ… Tech: React (micro-frontends/webpack 5), Node.js, GraphQL, FaaS, Polaris, Nx, AWS
-âœ… Competitors: Juniper Square, Agora Real, Appfolio, InvestNext, +2 others",434511.12,100-1000,"Real estate fundraising software, Real estate investor management software, Real estate capital raising software, Real estate investor relations software, Distribute K-1s to investors, Send investors distributions via ACH",-216321,30.2914111,"ReactJS,
-NodeJS,
-GraphQL,
-FaaS,
-Polaris,
-AWS","B2B SaaS charging an annual subscription between $1,000 and $12,000 based on admin seats and assets under management. 
+âœ… Competitors: Juniper Square, Agora Real, Appfolio, InvestNext, +2 others",434511.12,100-1000,"Real estate fundraising software, Real estate investor management software, Real estate capital raising software, Real estate investor relations software, Distribute K-1s to investors, Send investors distributions via ACH",-216321,30.2914111,"ReactJS,NodeJS,GraphQL,FaaS,Polaris,AWS","B2B SaaS charging an annual subscription between $1,000 and $12,000 based on admin seats and assets under management. 
 Add-on recurring services fees on an annual subscription between $3,600 and $12,000 based on number of investors.
 Add-on equity/debt placement fees of 1-3% of transaction size.","['Juniper Square', 'Agora Real', 'Appfolio', 'InvestNext', 'SyndicationPro', 'Cashflowportal']",6
 2023-02-20,3000000,2.5,"Fully integrated Print on Demand Software with Shopify, BigCommerce, Etsy, and LightFunnels.",platinum,1212891,-64784,0,United Kingdom,2018-01-01,"Profitable SaaS with $1,200,000 in TTM revenue that offers a cost-effective and convenient solution for businesses to sell custom-designed merchandise. Customers are only charged a wholesale price and shipping price once their products are sold, allowing them to minimize upfront costs and minimize the risk of unsold inventory. With the software, businesses can turn their designs into products and reach new customers and markets with ease.
@@ -136,9 +114,7 @@ The loyalty platform was launched in 2015 with the mission to provide independen
 
 The startup partnered with leading cloud-based point of sale (POS) companies such as Lightspeed POS, Vend, and Heartland Retail (Springboard Retail). 
 
-Users of those SaaS platforms can create and manage their loyalty programs while seamlessly maintaining their workflow within the POS.",470000,100-1000,"saas, loyalty",410000,17," PHP,MySQL,
- Angular,
-Googlecloud
+Users of those SaaS platforms can create and manage their loyalty programs while seamlessly maintaining their workflow within the POS.",470000,100-1000,"saas, loyalty",410000,17," PHP,MySQL,Angular,Googlecloud
 ","The sales are composed of 100% repeat recurring revenue with a very low churn since it is very difficult for a merchant to terminate a loyalty program once launched.
 
 âœ… $350,000 in TTM Profit (SDE) 
@@ -156,10 +132,7 @@ Googlecloud
 âœ… $727,000 in TTM profit
 âœ… Raised $1,250,000 in funding
 âœ… Tech: Ruby, Postgress, Node.js, React
-âœ… Competitors: Appcast, Joveo, Pandologic",3100000,10-100,"HRTech, Talent acquisition",726952,50,"Rubyrails,
-PostgreSQL,
-NodeJS,
-React 
+âœ… Competitors: Appcast, Joveo, Pandologic",3100000,10-100,"HRTech, Talent acquisition",726952,50,"Rubyrails,PostgreSQL,NodeJS,ReactJS
 ","Our current busines model is transactional similar to traditional ad tech companies. Employer chose a budget and we share the margins with our job board partners. 
 We have also launched a SAAS platform that will add additional predictable revenue stream. 
 ","['Appcast', 'Joveo', 'Pandologic']",27
@@ -169,9 +142,7 @@ We have also launched a SAAS platform that will add additional predictable reven
 âœ… $88,000 in TTM profit
 âœ… $69,000 in revenue last month
 âœ… $7,000 in profit last month
-âœ… Competitors: AwesomenessTV , Studio71 , Disney Digital Network ",828000,100-1000,"YouTube, United Kingdom, YouTube Multichannel Network, MCN, CMS, YouTube Content Management System, YouTube CMS",88293,0,"    PHP,
-    Angular, 
-    NodeJS,Googlecloud","The YouTube Network has a Revenue share business model. Revenue share can vary depending on the contract/creators, the standard revenue share via online registration is 30/70%, 30% for BMV, 70% for creators.
+âœ… Competitors: AwesomenessTV , Studio71 , Disney Digital Network ",828000,100-1000,"YouTube, United Kingdom, YouTube Multichannel Network, MCN, CMS, YouTube Content Management System, YouTube CMS",88293,0,"    PHP,Angular, NodeJS,Googlecloud","The YouTube Network has a Revenue share business model. Revenue share can vary depending on the contract/creators, the standard revenue share via online registration is 30/70%, 30% for BMV, 70% for creators.
 
 Other types of revenues might be from Branded Content Sales, Influencer Marketing Campaigns, Content Distribution and Monetization on other platforms outside of YouTube i.e. Publisher Networks, Facebook monetisaion etc. ","['AwesomenessTV ', 'Studio71 ', 'Disney Digital Network (Formerly Maker Studios)']",6
 2023-01-18,1200000,3.9,"Cyber security SaaS AI product, created by prestigious UK cyber security consultancy.  ",platinum,304000,174231,100,United Kingdom,2022-09-01,"Profitable SaaS with $304,000 in TTM revenue and $174,231 in TTM profit that builds cyber security products for high-threat environments. We are a team of experts serving government and industry customers. It is like a cyber security App Store for malware and file analysis. We have built it to fill a gap and disrupt the file analysis malware market, it automates hugely complex cyber security tasks, and even the build is automated which was also something only high-cost experts could do before.
@@ -214,17 +185,13 @@ We also have the ability to offer dev support after the 2-month transfer period 
 âœ… $1,000,000 in TTM revenue
 âœ… Bootstrapped
 âœ… Tech: PHP Laravel Vue.js MySQL DigitalOcean AWS
-âœ… Competitors: Airtable, Clickup, Monday, Trello",0,10000-100000,"project management, task management, online database, CRM, no-code, saas, laravel, work os",0,0,"PHP,
-Vue.js,
-MySQL,
-DigitalOcean,
-AWS",B2B SaaS with multiple business and pricing models.,"['Airtable', 'Clickup', 'Monday', 'Trello']",5
+âœ… Competitors: Airtable, Clickup, Monday, Trello",0,10000-100000,"project management, task management, online database, CRM, no-code, saas, laravel, work os",0,0,"PHP,Vue.js,MySQL,Digitalocean,AWS",B2B SaaS with multiple business and pricing models.,"['Airtable', 'Clickup', 'Monday', 'Trello']",5
 2023-01-02,1850000,4.5,Event platform for helping creators & brands grow & monetize audience,platinum,414472,-264727,0,United Kingdom,2018-08-01,"SaaS with $423,000 in ARR and $414,000 in TTM revenue that helps creators and brands grow and monetize audience by taking out the pain out of running a virtual event. With powerful features from an integrated landing page builder, and referral tools, to ticketing and payment processing.
 
 âœ… $414,000 in TTM revenue
 âœ… $12,000 in revenue last month
 âœ… $18,000 in profit last month
-âœ… Competitors: vFairs, Hopin, Airmeet, Cvent",423000,100-1000,"SaaS, UK, Django, Python, AWS, Events, Summits, Virtual",-264727,0,"Python, Tailwind,JavaScript, jQuery, Vue.js, AWS",SaaS revenue model with 3 tiers of pricing (ranging from $33 a month to $299 a month). We also take a small transaction fee on ticket sales processed through the platform (ranging from 2-7%). GMV (ticket sales) is currently on average $200-500k per month.,"['vFairs', 'Hopin', 'Airmeet', 'Cvent']",2
+âœ… Competitors: vFairs, Hopin, Airmeet, Cvent",423000,100-1000,"SaaS, UK, Django, Python, AWS, Events, Summits, Virtual",-264727,0,"Python, Tailwind,JavaScript, jQuery, Vuejs, AWS",SaaS revenue model with 3 tiers of pricing (ranging from $33 a month to $299 a month). We also take a small transaction fee on ticket sales processed through the platform (ranging from 2-7%). GMV (ticket sales) is currently on average $200-500k per month.,"['vFairs', 'Hopin', 'Airmeet', 'Cvent']",2
 2023-01-02,2100000,5.7,"Royalty Free Music, Sound Licensing, & AI Tools Platform for Content Creators",platinum,370225,179763,5,United States,2017-05-01,"Profitable SaaS with $400,000 in ARR and TTM revenue.
 
 ðŸ“Œ SAAS
@@ -285,11 +252,7 @@ This is the perfect opportunity for a well-capitalized fund to grow a SaaS produ
 âœ… $120,000 in revenue last month
 âœ… $90,000 in profit last month
 âœ… Competitors: Mintsoft, InforWMS etc",800000,10-100,"best inventory management software, Bespoke wms solution, Highly customisable wms, inventory and warehouse management, inventory management software, inventory management system, inventory system software, inventory tracking software, inventory tracking system, logistics management software, logistics management systems, stock management software, warehouse inventory management software, warehouse management software, warehouse management system, warehouse management systems uk, warehouse software systems, warehouse stock management system",200000,1,"
-C#,
-.Net,
-VO,
-ADS Database,
-PHP","The business model is B2B, focussed on 3PLs and standalone warehouses. Pricing over the year have been driven in a more SaaS-driven approach is as follows:
+C#, .Net,VO,ADS Database,PHP","The business model is B2B, focussed on 3PLs and standalone warehouses. Pricing over the year have been driven in a more SaaS-driven approach is as follows:
 
 Tiers:
 Bronze: $1,999 (Up to 5 users)
@@ -300,8 +263,7 @@ Gold: $14,999 (Up to 50 users)","['Mintsoft', 'InforWMS', 'Oracle Fusion Cloud W
 âœ… $240,000 in TTM revenue
 âœ… $30,000 in revenue last month
 âœ… Competitors: Spike global, Bubble.io, Poq
-",250000,10-100,"Low code, Mobile Apps",0,25,"ReactJS
-Java,Open API, AWS, Firebase","Customers are configured a branded mobile app. Pricing includes:
+",250000,10-100,"Low code, Mobile Apps",0,25,"ReactJS,Java,Open API, AWS, Firebase","Customers are configured a branded mobile app. Pricing includes:
 
 - Set up cost (typically starting at $15,000)
 - Licence fee covering usage, hosting, support and updates (typically starting at $2000)","['Spike global', 'Bubble.io', 'Poq']",4
@@ -391,8 +353,7 @@ The solution is sold as a three-tier offering primarily through telesales and di
 âœ… Private Financing of $300,000 
 âœ… Competitors: â€‹MSP360, Movebot, Flexify, LucidLink, DryvIQ
 
-We empower data storage customers of all sizes to move between providers more cost efficiently than ever. Drag and drop your 50 terabytes or 2 petabytes between one provider to another with complete assurance that no object is ever left behind. ",600000,10-100,"Data management, Backup, Cloud Storage, Data Migration, Cloud to cloud migration, Cloud NAS, AI, Machine Learning",350000,100,".Net 
-ReactJS","Licensing for Storage Providers & MSP Partners
+We empower data storage customers of all sizes to move between providers more cost efficiently than ever. Drag and drop your 50 terabytes or 2 petabytes between one provider to another with complete assurance that no object is ever left behind. ",600000,10-100,"Data management, Backup, Cloud Storage, Data Migration, Cloud to cloud migration, Cloud NAS, AI, Machine Learning",350000,100,".Net,ReactJS","Licensing for Storage Providers & MSP Partners
 Subscription and SaaS pricing for end users
 ","['www.MSP360.com', 'www.movebot.io', 'www.flexify.io', 'www.lucidlink.com', 'https://dryviq.com/']",8
 2022-10-18,1200000,7.1,"Generate more revenue for dispensaries via abandoned carts, inactive customers and Google reviews.",premium,170000,140,9000,United States,2021-03-01,"Profitable SaaS with $170,000 in TTM revenue and $140,000 in TTM profit that is a marketing and retail automation tool for cannabis dispensaries that works with the Dutchie & I Heart Jane ordering system. The tool automates the process of retargeting customers who have either abandoned shopping carts or haven't ordered for a period of time as well as to generate Google Reviews. 
@@ -429,9 +390,7 @@ We charge the same dollar figure to US clients as CAN clients.","['Range of nati
 âœ… $43,000 in profit last month
 âœ… Competitors: AWS Textract, ABBY FlexiCapture, Hyperscience, Butler Labs
 
-Example use cases are medical claims, patient encounters, real estate deeds and court records.",600000,10-100,"document intelligence, document ai, data extraction, data capture, document automation, Saas, Healthcare, insurance, united states, US",510000,25,"AWS,
-Java,
-Angular","Subscription based plus one-time configuration charges. We also offer custom consulting if requested.
+Example use cases are medical claims, patient encounters, real estate deeds and court records.",600000,10-100,"document intelligence, document ai, data extraction, data capture, document automation, Saas, Healthcare, insurance, united states, US",510000,25,"AWS,Java,Angular","Subscription based plus one-time configuration charges. We also offer custom consulting if requested.
 Usage based: 1c to 10c per page based on volume
 One-time setup fee: $95 per output column
 
@@ -470,7 +429,7 @@ The companyâ€™s track record of blending people, IT, applications, and busi
 âœ… $25,000 in TTM profit
 âœ… $9,000 in revenue last month
 âœ… $2,500 in profit last month
-âœ… Competitors: Vibe.travel, Web.travel",175000,10-100,"Travel booking software, Online booking engine",25000,25,"CSS, Javascript, Bootstrap, .NET ,MYSQL","Our business model is, that we charge a setup fee of a minimum of $2500 and a monthly subscription fee of $89.","['Vibe.travel', 'Web.travel']",5
+âœ… Competitors: Vibe.travel, Web.travel",175000,10-100,"Travel booking software, Online booking engine",25000,25,"CSS, Javascript, Bootstrap, .Net ,MYSQL","Our business model is, that we charge a setup fee of a minimum of $2500 and a monthly subscription fee of $89.","['Vibe.travel', 'Web.travel']",5
 2022-08-25,1200000,6.2,B2B prospecting data provider for highly-targeted prospect lists,premium,193700,125450,3012,United Kingdom,2021-05-01,"Profitable SaaS with $240,000 in ARR and $167,000 in TTM revenue that provides data to small-medium digital & lead generation agencies. It combines proprietary technology with on-demand human research to build highly targeted prospect lists for your business.
 
 âœ… $167,000 in TTM revenue
@@ -593,11 +552,7 @@ For uploaded paid content we take 10% of a transaction volume when selling ticke
 âœ… $10,000 in TTM profit
 âœ… $84,415 in revenue last month
 âœ… $1,000 in profit last month
-âœ… Competitors: FleetX, Loconav , Uffizio",300000,1000-10000,"fuel monitoring system, driver app, gps vehicle tracking system",10000,28,"Java,Kubernetes,
-Angular, ReactJS,
-PHP,
-Python,
-Digitalocean
+âœ… Competitors: FleetX, Loconav , Uffizio",300000,1000-10000,"fuel monitoring system, driver app, gps vehicle tracking system",10000,28,"Java,Kubernetes,Angular, ReactJS,PHP,Python,Digitalocean
 ","Telematics SaaS. Subscription - prepaid, monthly and yearly.
 ","['Loconav ', 'FleetX', 'Uffizio']",12
 2022-06-16,4000000,7.7,Log storage service for app developers to reproduce and resolve bugs,platinum,522000,59000,22,Germany,2015-09-01,"Profitable SaaS log storage service with $543,000 in ARR and $522,000 in TTM revenue for application developers that collects everything happening in the application, even if it doesnâ€™t crash, in order to reproduce and resolve bugs more effectively and provide better customer support. The platform respects your user's privacy is battery and network efficient and keeps logging even if the device is offline.
@@ -685,8 +640,7 @@ Lots of proprietary tech","['Rev.com', 'Amberscript.com', 'Happyscribe.com', 'So
 
 We have been working with ideas that inspire, engage, and excite, that challenge convention, and shape the trends since 2017. We are present in 07 countries (Qatar, Canada, UAE, Nigeria, India, Italy, Indonesia) and have strategic partnerships with 50+ Device OEMs, 5+ Telecom Players & 20+ System Integrators.
 
-",600000,10-100,"Artificial Intelligence Solution Provider, Telco grade software, IOT Development center",300000,25,"Angular, ReactJS 
-NodeJS, Python ,Flutter Tensorflow, OpenCV, Gstreamer, Python, OpenVino,MongoDB,Azure, AWS","Our Revenue channels are: 
+",600000,10-100,"Artificial Intelligence Solution Provider, Telco grade software, IOT Development center",300000,25,"Angular, ReactJS, NodeJS, Python ,Flutter Tensorflow, OpenCV, Gstreamer, Python, OpenVino,MongoDB,Azure, AWS","Our Revenue channels are: 
 - Time and Material based Software Development and Maintenance 
 - Retainer based deployment of engineering resources
 - Center of Excellence set up and maintenance 
@@ -699,7 +653,7 @@ NodeJS, Python ,Flutter Tensorflow, OpenCV, Gstreamer, Python, OpenVino,MongoDB,
 âœ… Pre-existing partnerships
 âœ… Competitors: OneTrust, TrustArc, Ketch, BigID
 
-Strong partnership with Mastercard, a huge opportunity for growth with the right owner, full ownership of all IP.",0,100-1000,"Privacy, Regtech, Privacy Policy, Cookie Policy, GDPR, CCPA, CPRA, SAAS, Software",375899,62993,"VueJS, Typescript, Javascript, AWS",B2B - Size scaled pricing,"['OneTrust', 'TrustArc', 'Ketch', 'BigID']",6
+Strong partnership with Mastercard, a huge opportunity for growth with the right owner, full ownership of all IP.",0,100-1000,"Privacy, Regtech, Privacy Policy, Cookie Policy, GDPR, CCPA, CPRA, SAAS, Software",375899,62993,"Vuejs, Typescript, Javascript, AWS",B2B - Size scaled pricing,"['OneTrust', 'TrustArc', 'Ketch', 'BigID']",6
 2022-05-04,6000000,10,We make dumb elevators smart,platinum,597563,0,93,Austria,2014-12-01,"SaaS with $180,000 in ARR and $597,563 in TTM revenue that offers comprehensive Elevator as a service to its B2B customers. With our independent IoT-Platform combined with our hardware, we take the Elevator Management to the next level, as our customers save up to 50 % of their costs and time.
 
 âœ… $597,563 in TTM revenue
@@ -728,15 +682,7 @@ Most contracts are annual billing, paid upfront. Clients are on a variety of dif
 âœ… $200,000 in TTM profit
 âœ… $55,000 in revenue last month
 âœ… $20,000 in profit last month
-âœ… Competitors: Design pickle, Superside, Upwork, Penji",700000,10-100,"Graphic design, creative, service-based, marketing tech, agency, productized service, platform, design,  outsourcing",300000,30,"ReactJS,
-PHP,
-PostgreSQL,
-Redis,
-RabbitMQ,
-Ngix,
-TypeScript,
-Digitalocean,
-Cloudflare","Recurring revenue model (subscription), ranging from $449 to $2,395+ p/m.  
+âœ… Competitors: Design pickle, Superside, Upwork, Penji",700000,10-100,"Graphic design, creative, service-based, marketing tech, agency, productized service, platform, design,  outsourcing",300000,30,"ReactJS,PHP,PostgreSQL,Redis,RabbitMQ,Ngix,TypeScript,Digitalocean,Cloudflare","Recurring revenue model (subscription), ranging from $449 to $2,395+ p/m.  
 
 Furthermore, we offer pay-as-you-go options. ","['Design pickle', 'Superside', 'Upwork', 'Penji']",7
 2022-04-29,5000000,8.9,Learning management system for new employee onboarding,platinum,562660,60000,5,United States,2018-08-01,"Profitable SaaS with $562,660 in TTM revenue and $60,000 in TTM profit that increase the teamâ€™s learning speed, improves real-world knowledge retention and supports your customer success and GTM team goals. This platform is built with a powerful learning technique â€” spaced repetition.
@@ -764,7 +710,7 @@ Furthermore, we offer pay-as-you-go options. ","['Design pickle', 'Superside', '
 
 In business since 2010, we have a network of 500+ partners across the US currently utilizing this software and purchase over 10K+ cards a year from consumers across the U.S. 
 
-Our system also features a B2C e-commerce site, targeting the 'couponer' demographic,  where these cards are sold to customers at a discount.",0,more than 100000,"ecommerce, b2b, saas, pos, point of sale, gift cards",12000,1,"PHP, Javascript, Golang, AWS, mySQL, MariaDB, PostgreSQL","We are a full service POS SAAS. We provide our SAAS free of charge to our partner network where they purchase gift cards on our behalf at a discounted rate from their own customers and upload to our system. We pay the partner a commission for each card they purchase and also provide guarantees against fraud. We list roughly 70% of our cards digitally, the remainder are shipped in and sold to our B2C customers at a discount on our website. Our margin comes from the difference between the price we pay our partner for the card and the price we list the card up for sale on our B2C. ","['Raise.com', 'Cardcash.com']",2
+Our system also features a B2C e-commerce site, targeting the 'couponer' demographic,  where these cards are sold to customers at a discount.",0,more than 100000,"ecommerce, b2b, saas, pos, point of sale, gift cards",12000,1,"PHP, Javascript, Golang, AWS, MYSQL, MariaDB, PostgreSQL","We are a full service POS SAAS. We provide our SAAS free of charge to our partner network where they purchase gift cards on our behalf at a discounted rate from their own customers and upload to our system. We pay the partner a commission for each card they purchase and also provide guarantees against fraud. We list roughly 70% of our cards digitally, the remainder are shipped in and sold to our B2C customers at a discount on our website. Our margin comes from the difference between the price we pay our partner for the card and the price we list the card up for sale on our B2C. ","['Raise.com', 'Cardcash.com']",2
 2022-04-08,1000000,10,Patented fraud prevention application for Shopify merchants,premium,100000,0,15,United States,2018-01-01,"SaaS with $80,000 in ARR and $100,000 in TTM revenue that helps merchants prevent fraud before a transaction goes into the payments world. It provides each merchant with their own no-fly list. Transactions are run against 35 data lines and are scored. 
 
 âœ… $100,000 in TTM revenue
@@ -787,7 +733,7 @@ Transactions that have some degree of risk are flagged and the customers are req
 âœ… $1,500,000 in TTM profit
 âœ… $392,333 in revenue last month
 âœ… $361,338 in profit last month
-âœ… Competitors: Mainstreet, Ituit, Local accounting firms, ADP",0,10-100,"tax,taxsoftware,taxtech,fintech",1598045,500,"React, Ruby on Rails, HTML",Variable fee based software,"['Mainstreet.com', 'Ituit', 'Local accounting firms', 'ADP']",27
+âœ… Competitors: Mainstreet, Ituit, Local accounting firms, ADP",0,10-100,"tax,taxsoftware,taxtech,fintech",1598045,500,"ReactJS, Rubyrails, HTML",Variable fee based software,"['Mainstreet.com', 'Ituit', 'Local accounting firms', 'ADP']",27
 2022-03-09,1760000,2,Natural language processing SaaS for social listening and RPA analytics,platinum,881440,134644,10,Spain,2011-08-01,"Profitable SaaS with $618,872 in ARR and $859,458 in TTM revenue that is for social listening and RPA for Customer Service and other Intelligence needs around unstructured data management. The platform is used by companies to track their reputation and opinions, to create market research reports at low cost, to develop better customer service, to structure their unstructured data, or to use Robotic Process Automatization.
 
 âœ… $880,745 in TTM revenue
@@ -977,7 +923,7 @@ Competitors: Showpad, Veelo, Vablet, Mediafly",200000,10-100,"Sales enablement, 
 âœ… $8,700 in profit last month
 âœ… Competitors: PropertyData
 
-Note: all numbers on screenshots from Stripe are in Â£GBP, please adjust to USD.",155700,100-1000,proptech saas uk stripe,75000,0,"ReactJS, JavaScript, NodeJS, Googlecloud,MySQL, Elastic Search, Firebase",SaaS,['PropertyData'],0
+Note: all numbers on screenshots from Stripe are in Â£GBP, please adjust to USD.",155700,100-1000,proptech saas uk stripe,75000,0,"ReactJS, JavaScript, NodeJS, Googlecloud,MySQL, ElasticSearch, Firebase",SaaS,['PropertyData'],0
 2021-11-24,2500000,4.5,"FRA tool for doctors, practices, and hospitals to send & collect patient reviews",platinum,550000,15000,120,France,2019-05-01,"Profitable SaaS with $360,000 in TTM revenue and $100,000 in TTM profit that helps doctors, medical practices, clinics, and hospitals improve and pilot their reputation. With the software, the customers are able to send surveys to their patients, gather and collaborate on the patients' feedback, and ask patients to write public reviews. 
 
 âœ… $360,000 in TTM revenue
@@ -1091,8 +1037,7 @@ We also provide strategic assistance by creating virtual representations of thei
 âœ… $81,470 in revenue last month
 âœ… $57,843 in profit last month
 âœ… Raised $361,000 in funding
-âœ… Competitors: Twilio, Pythia, BotXO",960000,1000-10000,"""instagram zendesk integration"", ""SaaS helpdesk"", SaaS",695868,0,"ReactJS, Vuejs, PHP,Golang, Python, Keras, TensorFlow
-ElasticSearch, Docker,Kubernetes, ASW
+âœ… Competitors: Twilio, Pythia, BotXO",960000,1000-10000,"""instagram zendesk integration"", ""SaaS helpdesk"", SaaS",695868,0,"ReactJS, Vuejs, PHP,Golang, Python, Keras, TensorFlow,ElasticSearch, Docker,Kubernetes, ASW
 
 ",SaaS,"['Twilio', 'Pythia', 'BotXO', 'Ongair']",11
 2021-08-03,1000000,2.9,"B2C hosting provider specialized in multiplayer gaming with $350,000 in TTM revenue",platinum,350000,235000,,United Kingdom,2017-01-01,"SaaS server hosting company with $350,000 in ARR and TTM revenue that specializes in providing B2C hosting for multiplayer games. From the UK to Australia, we provide hosting for over 50 games across four continents. Low pings are in our blood, along with state-of-the-art hardware and unrivaled customer service.
@@ -1317,7 +1262,7 @@ Do you have a financial summary or P&L?
 Yes
 
 Who is your target customer?
-Heavy industry contractors and contractees, consultants.",4000000,100-1000,"saas, service, b2b, enterprise",450000,0,",Net,MYSQL",SaaS,['None'],9
+Heavy industry contractors and contractees, consultants.",4000000,100-1000,"saas, service, b2b, enterprise",450000,0,".Net,MYSQL",SaaS,['None'],9
 2021-06-24,1250000,4.6,,platinum,270000,108000,,,2009-09-01,"SaaS with $144,000 in ARR and $270,000 in TTM revenue that sells and makes iPhone and Android apps which aims to remove the hassle of dealing with paper.  Go paperless and save time, money, and effort.
 
 âœ… $270,000 in TTM revenue
