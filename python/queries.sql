@@ -23,4 +23,4 @@ CREATE TABLE companies_for_sale
     weekly_view NUMERIC
 )
 
-SELECT tech_stack FROM companies_for_sale
+SELECT tech_stack FROM  companies_for_sale
