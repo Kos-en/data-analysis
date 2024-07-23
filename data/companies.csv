@@ -30,7 +30,7 @@ Info on google analytics: The reason you see a segnificant drop in website users
 âœ… $375,000 in TTM profit
 âœ… $201,940 in revenue last month
 âœ… $110,000 in profit last month
-âœ… Competitors: Kicksta",2028286.44,1000-10000,saas,375000,0,"AWS, React","B2B Self-Serve SaaS with  three monthly pricing tiers: $49, $99, $249",['Kicksta'],8
+âœ… Competitors: Kicksta",2028286.44,1000-10000,saas,375000,0,"AWS, ReactJS","B2B Self-Serve SaaS with  three monthly pricing tiers: $49, $99, $249",['Kicksta'],8
 2023-02-28,7302360,5,"CRM Software (Saas) with Email and Whatsapp automation for SMBs in Latin America and Spain
 ",platinum,1460472,521376,112,Argentina,2019-01-01,"Profitable SaaS with $1,460,472 in TTM revenue and $521,376 in TTM profit for small and medium-sized B2B businesses in Latin America and Spain. It helps companies automate their sales follow-up process.
 
@@ -38,7 +38,7 @@ Info on google analytics: The reason you see a segnificant drop in website users
 âœ… $521,376 in TTM profit
 âœ… $121,706 in revenue last month
 âœ… $43,448 in profit last month
-âœ… Competitors: Hubspot, Pipedrive, Zoho",1460472,100-1000,"CRM, Saas, Latam, Sales, Automation",521376,112,"PHP,NodeJS,Vue.js","B2B Saas charging a monthly recurring fee: $99 (basic), $129(premium) +$25 extra user ","['Hubspot', 'Pipedrive', 'Zoho']",18
+âœ… Competitors: Hubspot, Pipedrive, Zoho",1460472,100-1000,"CRM, Saas, Latam, Sales, Automation",521376,112,"PHP,NodeJS,Vuejs","B2B Saas charging a monthly recurring fee: $99 (basic), $129(premium) +$25 extra user ","['Hubspot', 'Pipedrive', 'Zoho']",18
 2023-02-25,1750000,2.8,Workspace as a Service platform for remote/hybrid work and collaboration,platinum,636097,0,11,Spain,2008-01-01,"SaaS with $636,000 in TTM revenue and $29,000 in revenue last month is a global cloud-based workspace as a service for coding, digital content creation and management, working in pure cloud as well as hybrid environments. It uses virtual desk solutions with graphic capacity in the cloud, allowing users to connect to powerful virtual desktops from anywhere through any equipment, while keeping their own way of working and their own engine and tools. The solution allows users to connect to powerful virtual desktops from anywhere, via any equipment, and with unrivaled flexibility. 
 
 âœ… $636,000 in TTM revenue
@@ -185,7 +185,7 @@ We also have the ability to offer dev support after the 2-month transfer period 
 âœ… $1,000,000 in TTM revenue
 âœ… Bootstrapped
 âœ… Tech: PHP Laravel Vue.js MySQL DigitalOcean AWS
-âœ… Competitors: Airtable, Clickup, Monday, Trello",0,10000-100000,"project management, task management, online database, CRM, no-code, saas, laravel, work os",0,0,"PHP,Vue.js,MySQL,Digitalocean,AWS",B2B SaaS with multiple business and pricing models.,"['Airtable', 'Clickup', 'Monday', 'Trello']",5
+âœ… Competitors: Airtable, Clickup, Monday, Trello",0,10000-100000,"project management, task management, online database, CRM, no-code, saas, laravel, work os",0,0,"PHP,Vuejs,MySQL,Digitalocean,AWS",B2B SaaS with multiple business and pricing models.,"['Airtable', 'Clickup', 'Monday', 'Trello']",5
 2023-01-02,1850000,4.5,Event platform for helping creators & brands grow & monetize audience,platinum,414472,-264727,0,United Kingdom,2018-08-01,"SaaS with $423,000 in ARR and $414,000 in TTM revenue that helps creators and brands grow and monetize audience by taking out the pain out of running a virtual event. With powerful features from an integrated landing page builder, and referral tools, to ticketing and payment processing.
 
 âœ… $414,000 in TTM revenue
@@ -333,7 +333,7 @@ We have made an in-house discount token called TCT - it's what mainly grew our g
 âœ… Competitors: Nexhealth, Patientpop,Topdoctors, Doctoralia
 
 This company started by identifying a huge problem with a must-have solution within a massive market that had no winners and high fragmentation. This companyâ€™s go-to-market is very simple, since we build software and market it. At the moment, we only sell in Spain and the value proposition is based on patient qualification, together with an array of ancillary products as well as on being the platform that provides and collects the most data from both patient and doctor, allowing for a more precise matching system, thus driving above industry average satisfaction ratios. 
-",300000,100-1000,"Spain, Healthtech, Saas, Health",350000,317,"AWS, Symfony,Vue","B2B SaaS charging a monthly recurring fee on one single pricing tier: â‚¬100 p/m.
+",300000,100-1000,"Spain, Healthtech, Saas, Health",350000,317,"AWS, Symfony,Vue.js","B2B SaaS charging a monthly recurring fee on one single pricing tier: â‚¬100 p/m.
 We also charge a variable take rate from each discharged patient's treatment (on average 15%)","['Nexhealth', 'Patientpop', 'Topdoctors', 'Doctoralia']",19
 2022-10-20,4500000,1.9,Consumer credit & dispute management platform for increasing scores,platinum,2400000,0,15,United States,2018-01-01,"SaaS with $2,400,000 in TTM revenue and $210,000 in revenue last month that provides consumers an easy-to-use interface to handle all aspects of Credit Dispute management including reviewing credit scores and reports, disputing and resolving inaccuracies, as well as monitoring and protecting credit data. 
 
@@ -568,7 +568,7 @@ For uploaded paid content we take 10% of a transaction volume when selling ticke
 âœ… â‚¬160,000 in revenue last month
 âœ… Tech: Angular, Java Spring Boot, .net, c#, AWS, Docker
 âœ… Competitors: Dialpad, Aircall, Ringcentral, Justcall, Openphone
-",1920000,1000-10000,"voip, phone system, cloud, saas, telecom",0,22,"Angular, Java, .Net, C#, AWS, Docker.",SaaS with 3 plans for users with add-ons,"['Dialpad', 'Aircall', 'Ringcentral', 'Openphone', 'Grasshopper', 'Cloudtalk', 'Justcall']",5
+",1920000,1000-10000,"voip, phone system, cloud, saas, telecom",0,22,"Angular, Java, .Net, C#, AWS, Docker",SaaS with 3 plans for users with add-ons,"['Dialpad', 'Aircall', 'Ringcentral', 'Openphone', 'Grasshopper', 'Cloudtalk', 'Justcall']",5
 2022-06-09,1400000,4.6,Automotive data company for enabling OEMs to track vehicles after purchase,platinum,303000,220000,100,Canada,2019-10-01,"Profitable SaaS automotive data company with $266,000 in ARR and $303,000 in TTM revenue that provides some of the largest vehicle OEMs data on which of their vehicles have been exported outside of the country of the initial sale. Its most advanced prevention tool uses our proprietary algorithm and analyzes the likelihood that someone is purchasing a vehicle for export and notifies the dealership selling the vehicle of the risk associated.
 
 âœ… $303,000 in TTM revenue
@@ -748,7 +748,7 @@ Transactions that have some degree of risk are flagged and the customers are req
 âœ… $75,000 in TTM profit
 âœ… $26,000 in revenue last month
 âœ… $9,000 in profit last month
-âœ… Raised $380,000 in 2016 via CLAs",320000,10-100,"adtech, ai, cyber",75000,0,"AWS,ElasticSearch, Aerospike, RabbitMQ, MariaDB,Java, C++, Python. ",SaaS,['No known competitors'],5
+âœ… Raised $380,000 in 2016 via CLAs",320000,10-100,"adtech, ai, cyber",75000,0,"AWS,ElasticSearch, Aerospike, RabbitMQ, MariaDB,Java, C++, Python",SaaS,['No known competitors'],5
 2022-03-07,24000000,7.5,"Automated background checks for hiring, lending, and transacting",platinum,3200000,190000,,,2016-02-01,"Profitable SaaS with $3,200,000 in TTM revenue and $190,000 in TTM profit that automates the background checks for hiring, lending and transacting in 9 countries via an API and a dashboard. It also combines an artificial intelligence with legal experts to ensure in making the best hiring decisions
 
 âœ… $3,200,000 in TTM revenue
@@ -822,7 +822,7 @@ The platform allows offline merchants get all the benefits of online payments wi
 âœ… $275,000 in TTM profit
 âœ… $74,000 in revenue last month
 âœ… $25,000 in profit last month
-âœ… Competitors: Stripe Atlas, FirstBase, Doola",700000,1000-10000,"business formation, startup, tax and compliance",275000,100,"Java, AWS. ",We have a one-time price of $599 for setup and then an annual fee for tax and compliance filings. We had also finished building a subscription for all compliances as well as support to onboard existing companies.,"['Stripe Atlas', 'FirstBase', 'Doola']",8
+âœ… Competitors: Stripe Atlas, FirstBase, Doola",700000,1000-10000,"business formation, startup, tax and compliance",275000,100,"Java, AWS",We have a one-time price of $599 for setup and then an annual fee for tax and compliance filings. We had also finished building a subscription for all compliances as well as support to onboard existing companies.,"['Stripe Atlas', 'FirstBase', 'Doola']",8
 2022-01-27,1000000,4.1,"NoCode platform for automating data workflows and creating dashboards with $246,000 in TTM revenue",premium,246000,86000,14,France,2014-09-01,"Profitable SaaS with $246,000 in TTM revenue and $86,000 in TTM profit that lets the user create dashboards and data workflows. Usual computed KPIs are LTVs, customers segmentation, average customers ages per product. But it is also used on many other types of data (e.g. IoT, eLearning, SaaS activity metrics, supply chain).
 
 âœ… $246,000 in TTM revenue
@@ -851,7 +851,7 @@ We also develop strategic partnerships with local, national and international bu
 âœ… $111,600 in profit last month
 âœ… Competitors: Loyalty1
 
-(Numbers updated 1-27-2021 from 4 rev centers)",3800000,10-100,"Ecommerce, ecom, b2b, b2c, saas, mobile app, app, lending",1400000,0,"AWS, React.JS, PHP, MYSQL, PostgreSQL","SaaS, B2B, B2B2C, eCommerce",['Loyalty1'],34
+(Numbers updated 1-27-2021 from 4 rev centers)",3800000,10-100,"Ecommerce, ecom, b2b, b2c, saas, mobile app, app, lending",1400000,0,"AWS, ReactJS, PHP, MYSQL, PostgreSQL","SaaS, B2B, B2B2C, eCommerce",['Loyalty1'],34
 2022-01-07,70000000,13.5,Scholarships platform for students to simplify the application process,platinum,5170000,635000,,,2015-01-01,"Profitable SaaS with $5,000,000 in ARR and $635,000 in TTM profit that provides vetted scholarships so students can focus on their education. Millions of students have used our one-stop platform with AI-powered strategy tools to boost chances and streamline their application process. Thereby, freeing up their time and energy to focus on scholarships they are most likely to earn.
 
 âœ… $5,170,000 in TTM revenue
@@ -978,7 +978,7 @@ We are based in France, we are the leader in France for doctors' online reputati
 âœ… $64,000 in TTM profit
 âœ… $54,000 in revenue last month
 âœ… $4,000 in profit last month
-âœ… Competitors: Honeybook, Dubsado, 17Hats",612000,1000-10000,"SaaS, Creative business",64000,20,Rubyrails ReactJS,SaaS,"['Honeybook', 'Dubsado', '17Hats']",4
+âœ… Competitors: Honeybook, Dubsado, 17Hats",612000,1000-10000,"SaaS, Creative business",64000,20,"Rubyrails ,ReactJS",SaaS,"['Honeybook', 'Dubsado', '17Hats']",4
 2021-09-10,9000000,1.8,"Omnichannel communication platform for the LATAM market with ARR +$2,500,000. Official Whatsapp BSPs",platinum,5000002,100000,100,Mexico,2015-09-01,"Profitable SaaS with +$2,500,000 in ARR with a +100% YoY growth that is a do-it-yourself omnichannel for chatbots and messaging experiences in Latam and Europe allowing eCommerce, Finance, Insurance, and CPGâ€™s to launch quickly and deliver customer personalization thanks to its no-code infrastructure. Official Whatsapp Business Solution Provider (BSP) and Messenger API Partners for Instagram
 
 âœ… +$2,500,000 in ARR
@@ -992,7 +992,7 @@ We are based in France, we are the leader in France for doctors' online reputati
 âœ… $921,206 in TTM profit
 âœ… $170,593 in revenue last month
 âœ… $76,766 in profit last month
-âœ… Competitors: Mati, Jumio, Incode, Tu identidad",1500000,100-1000,"Identity Check, KYC, API, RPA, Fintech, RegTech, SaaS, SDK",921206,50,AWS ,"API Calls. 
+âœ… Competitors: Mati, Jumio, Incode, Tu identidad",1500000,100-1000,"Identity Check, KYC, API, RPA, Fintech, RegTech, SaaS, SDK",921206,50,AWS,"API Calls. 
 50 USD for 1,000 Calls. 
 125 USD for 5,000 Calls. 
 500 USD for 25,000 Calls. 
@@ -1074,7 +1074,7 @@ We also provide strategic assistance by creating virtual representations of thei
 âœ… $20,000 in profit last month
 âœ… Competitors: AgriTAsk
 
-We collect high-quality yield/claims data which is essential to providing crop insurance products. Then, we correlate this data with signals obtained from satellite imagery, free and open data from the Copernicus Program (European Union).",700000,10-100,"agtech, insuretech, AI, SaaS",150000,0,"React, Firebase, AWS, Python",SaaS,['AgriTAsk'],7
+We collect high-quality yield/claims data which is essential to providing crop insurance products. Then, we correlate this data with signals obtained from satellite imagery, free and open data from the Copernicus Program (European Union).",700000,10-100,"agtech, insuretech, AI, SaaS",150000,0,"ReactJS, Firebase, AWS, Python",SaaS,['AgriTAsk'],7
 2021-06-24,1500000,12.5,,premium,120000,80700,,,2020-10-01,"B2B SaaS with $100,000 in ARR that is an onsite customer engagement and messaging platform for SMEs. Fuel your offline and online business conversations. Engage customers via call, sms, email, whatsapp etc.
 
 âœ… $100,000 in ARR
@@ -1111,7 +1111,7 @@ $1,500,000 (Negotiable)",100000,1000-10000,saas,80700,0,NodeJS,Pay as you use mo
 âœ… $70000 in TTM profit
 âœ… $11666 in revenue last month
 âœ… $5,833 in profit last month
-âœ… Competitors: Full Convert, MSSQL-MySQL Sync ",140000,10000-100000,"database conversion, database migration, database synchronization",70000,0,Django,eCommerce,"['Full Convert', 'MSSQL-MySQL Sync']",4
+âœ… Competitors: Full Convert, MSSQL-MySQL Sync ",140000,10000-100000,"database conversion, database migration, database synchronization",70000,0,Python,eCommerce,"['Full Convert', 'MSSQL-MySQL Sync']",4
 2021-06-24,1500000,3.3,,platinum,450000,30000,,,2017-12-01,"Medical Learning App for Doctors and Hidoc Offers provides its users with essential Local Medical Offers with $650,000/ARR.
 
 âœ… $450,000 in TTM revenue
@@ -1197,7 +1197,7 @@ What technology stack is this product built on?
 AWS, PostgreSQL, ReactJS, Ruby, JavaScript, HTML, CSS
 
 Do you have a financial summary or P&L?
-Yes",530000,10-100,"agtech, cleantech, renewable energy",0,0,"AWS, PostgreSQL, ReactJS, Ruby, JavaScript, HTML, CSS","3 SaaS packages: Starter, Professional, Enterprise
+Yes",530000,10-100,"agtech, cleantech, renewable energy",0,0,"AWS, PostgreSQL, ReactJS, Rubyrails, JavaScript, HTML, CSS","3 SaaS packages: Starter, Professional, Enterprise
 Per meter, per month subscription plans","['AgMonitor', 'Consultants']",9
 2021-06-24,5000000,7.1,"Tool for Twitter users to browse, search, and delete old tweets in bulk",platinum,700000,350000,20,Latvia,2011-10-01,"Profitable SaaS company with $1000,000 in ARR that is a leading tool in industry allowing Twitter users to Delete multiple tweets with one click. It has advanced Search features, Auto Delete tools, Upload archive and many others.
 
@@ -1209,7 +1209,7 @@ Additionally company has very strong SEO positions (top 1-3) on many keywords re
 âœ… $350,000 in TTM profit
 âœ… $90,000 in revenue last month
 âœ… $43,000 in profit last month
-âœ… Competitors: Tweetdelete, Tweeteraser, Circleboom",1000000,10000-100000,"SEO, Delete Tweets, Twitter",350000,20,"Rubyrails, PostgreSQLl, Vuejs,AWS",Saas / monthly subscription,"['https://tweetdelete.net', 'https://www.tweeteraser.com', 'https://circleboom.com']",11
+âœ… Competitors: Tweetdelete, Tweeteraser, Circleboom",1000000,10000-100000,"SEO, Delete Tweets, Twitter",350000,20,"Rubyrails, PostgreSQL, Vuejs,AWS",Saas / monthly subscription,"['https://tweetdelete.net', 'https://www.tweeteraser.com', 'https://circleboom.com']",11
 2021-06-24,2000000,5,Tool for kickstarting organic traffic through rankings for important keywords,platinum,400000,300000,,,2015-01-01,"Profitable SaaS helping our customers to rank on Google generating $600,000 in ARR, $400,000 TTM revenue and $300,000 TTM profit.
 
 We send you geotargeted organic traffic from any country, boosting your ranking for the keywords that matter to your business. The improved rankings start getting you organic traffic from the SERP, bringing real results.
