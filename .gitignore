@@ -1,0 +1,8 @@
+#ignore node modules
+node_modules/
+#ignore os_specific files
+.DS_Store
+data/.DS_Store
+#ignore IDE settings 
+.vscode/
+
